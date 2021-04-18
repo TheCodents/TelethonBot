@@ -1,1 +1,1 @@
-BotzHub: python -m TelethonBot
+worker: python -m TelethonBot
